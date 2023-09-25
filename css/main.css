@@ -624,7 +624,7 @@
         transition:         all 0.2s ease-in-out;
     }
 
-    img.scroll_logo_img { max-height: 30px !important;width: auto; }
+    img.scroll_logo_img { max-height: 50px !important;width: auto; }
     .navbar-toggle {
       border: 0px solid transparent;
     }
@@ -760,4 +760,18 @@
         .modal-sm-2 {
             width: 400px;
         }
+    }
+
+
+    /*CUSTOM*/
+    .pix-navbar-default .logo-img img{
+        width: 240px;
+        height: 60px;
+        object-fit: contain;
+    }
+    .mb-80{
+        margin-bottom: 80px !important;
+    }
+    .pix-navbar-default .logo-img{
+        padding: 0;
     }
