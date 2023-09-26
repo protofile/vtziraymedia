@@ -433,11 +433,11 @@
     .feature_align { padding-left: 3px;position: relative;top: 4px; }
 
     /* Agency */
-    .pix-agency-1 { background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url('../images/agency/bg-intro-agency.jpg');background-size: cover;background-position: center; }
+    .pix-agency-1 { background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url('../images/hero.jpg');background-size: cover;background-position: center; }
     .agency-feature { background-size: cover;border-radius: 3px;overflow: hidden;padding-top: 170px;padding-bottom: 30px; }
-    .agency-feature-1 { background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)),url('../images/agency/image-box-1.png'); }
-    .agency-feature-2 { background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)),url('../images/agency/image-box-2.png'); }
-    .agency-feature-3 { background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)),url('../images/agency/image-box-3.png'); }
+    .agency-feature-1 { background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)),url('../images/responsive.jpg'); }
+    .agency-feature-2 { background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)),url('../images/foto-jernih.jpg'); }
+    .agency-feature-3 { background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)),url('../images/interaktif.jpg'); }
 
 
     .media-box-area { display: table-cell;}
